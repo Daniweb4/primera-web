@@ -9,7 +9,8 @@ h1{
     color: aquamarine;
 }
 a{
-    color:aquamarine
+    color: black;
+
     
 }nav{
     background-color: azure;
@@ -24,7 +25,7 @@ a{
 }h3{
     color: aquamarine;
 }li{
-    color: aquamarine;
+    color: black;
 }footer{
     color: cyan;
 }
